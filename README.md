@@ -69,7 +69,7 @@ The **Zomato Restaurant Analytics Dashboard** is an interactive Power BI project
 
 ## Executive Dashboard
 
-![Executive Dashboard](Screenshots/01_Executive_Dashboard.png)
+![Executive Dashboard](01_Executive_Dashboard.png)
 
 ---
 
