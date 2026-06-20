@@ -167,7 +167,7 @@ Zomato-Restaurant-Analytics-PowerBI
 
 **Krishan Choudhary**
 
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
+Data Analyst | Power BI | SQL | Python | Excel
 
 ---
 
