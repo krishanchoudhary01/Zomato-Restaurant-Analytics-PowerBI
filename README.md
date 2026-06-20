@@ -75,19 +75,19 @@ The **Zomato Restaurant Analytics Dashboard** is an interactive Power BI project
 
 ## Restaurant Performance Analysis
 
-![Restaurant Performance](Screenshots/02_Restaurant_Performance.png)
+![Restaurant Performance](Zomato-Restaurant-Analytics-PowerBI/Screenshots/02_Restaurant_Performance.png)
 
 ---
 
 ## Customer & Delivery Analysis
 
-![Customer Delivery](Screenshots/03_Customer_Delivery.png)
+![Customer Delivery](Zomato-Restaurant-Analytics-PowerBI/Screenshots/03_Customer_Delivery.png)
 
 ---
 
 ## Business Insights
 
-![Business Insights](Screenshots/04_Business_Insights.png)
+![Business Insights](Zomato-Restaurant-Analytics-PowerBI/Screenshots/04_Business_Insights.png)
 
 ---
 
